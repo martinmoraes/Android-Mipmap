@@ -2,9 +2,10 @@ package escolaarcadia.blogspot.com.br.mipmap;
 
 /*
 prof. Martin Morães
-http://lattes.cnpq.br/2746554350570335
-http://escolaarcadia.blogspot.com.br/
-https://github.com/martinmoraes
+    http://lattes.cnpq.br/2746554350570335
+    http://escolaarcadia.blogspot.com.br/
+    https://github.com/martinmoraes
+    https://www.youtube.com/channel/UCLih7IZ3jwhfkLg-Q0vb9Lg
 
 Este código está disponível em: https://github.com/martinmoraes/Android-Mipmap
 
